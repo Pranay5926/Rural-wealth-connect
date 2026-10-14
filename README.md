@@ -71,3 +71,8 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
+
+## Hackathon demo data
+
+This repository includes illustrative frontend sample records for demonstration only. Sample order, payment, and dispute dates have been refreshed for the demo snapshot dated **14 October 2026**. Market prices and dashboard metrics are static examples, not live market feeds or verified platform-wide totals. No real payments are processed by these sample records.

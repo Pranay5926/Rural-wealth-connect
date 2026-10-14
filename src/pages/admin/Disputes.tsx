@@ -11,7 +11,7 @@ const disputes = [
     farmer: "Rajesh Kumar",
     buyer: "Green Energy Industries",
     issue: "Quality mismatch - Moisture content higher than agreed",
-    date: "2024-11-10",
+    date: "2026-10-14",
     status: "pending",
   },
   {
@@ -20,7 +20,7 @@ const disputes = [
     farmer: "Suresh Patel",
     buyer: "Biomass Solutions",
     issue: "Payment delay - Buyer hasn't released payment after 7 days",
-    date: "2024-11-08",
+    date: "2026-10-13",
     status: "in-review",
   },
   {
@@ -29,7 +29,7 @@ const disputes = [
     farmer: "Amit Singh",
     buyer: "Eco Materials",
     issue: "Quantity shortage - 10 quintals less than order",
-    date: "2024-11-05",
+    date: "2026-10-10",
     status: "resolved",
   },
 ];

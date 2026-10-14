@@ -80,7 +80,7 @@ const FinalBanner = () => {
         </div>
 
         <div className="text-primary-foreground/70 text-sm">
-          <p>© 2024 Beyond Grains. Transforming Agriculture, Enriching Lives.</p>
+          <p>© 2026 Beyond Grains. Transforming Agriculture, Enriching Lives.</p>
         </div>
       </div>
     </div>

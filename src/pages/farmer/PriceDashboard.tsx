@@ -71,7 +71,7 @@ const PriceDashboard = () => {
     setLastUpdated(new Date().toLocaleString());
     toast({
       title: "Prices Refreshed",
-      description: "Latest market prices loaded",
+      description: "Demo price display refreshed; prices are illustrative",
     });
   };
 
@@ -81,7 +81,7 @@ const PriceDashboard = () => {
         <Card className="p-6">
           <div className="flex items-center justify-between mb-4">
             <div>
-              <h2 className="text-xl font-bold">Real-Time Market Prices</h2>
+              <h2 className="text-xl font-bold">Sample Market Prices</h2>
               <p className="text-sm text-muted-foreground">
                 Last updated: {lastUpdated}
               </p>
@@ -93,7 +93,7 @@ const PriceDashboard = () => {
           </div>
 
           <Badge variant="outline" className="bg-accent/10 text-accent-foreground">
-            AI Dynamic Pricing Algorithm (Static UI)
+            Illustrative prices · Demo data (not a live market feed)
           </Badge>
         </Card>
 

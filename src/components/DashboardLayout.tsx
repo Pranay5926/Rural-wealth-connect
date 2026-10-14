@@ -46,6 +46,9 @@ const DashboardLayout = ({
           </div>
 
           <div className="flex items-center gap-2">
+            <Badge variant="outline" className="hidden sm:inline-flex text-xs">
+              Demo data · 14 Oct 2026
+            </Badge>
             {showOfflineIndicator && (
               <Badge variant="outline" className="gap-1">
                 <WifiOff className="h-3 w-3" />

@@ -6,9 +6,9 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Eye, Truck, CheckCircle } from "lucide-react";
 
 const orders = [
-  { id: "1", farmer: "Rajesh Kumar", material: "Rice Husk", quantity: "100", price: "520", status: "pending", date: "2024-11-12" },
-  { id: "2", farmer: "Suresh Patel", material: "Wheat Straw", quantity: "200", price: "380", status: "confirmed", date: "2024-11-10" },
-  { id: "3", farmer: "Amit Singh", material: "Paddy Straw", quantity: "150", price: "350", status: "completed", date: "2024-11-08" },
+  { id: "1", farmer: "Rajesh Kumar", material: "Rice Husk", quantity: "100", price: "520", status: "pending", date: "2026-10-14" },
+  { id: "2", farmer: "Suresh Patel", material: "Wheat Straw", quantity: "200", price: "380", status: "confirmed", date: "2026-10-13" },
+  { id: "3", farmer: "Amit Singh", material: "Paddy Straw", quantity: "150", price: "350", status: "completed", date: "2026-10-10" },
 ];
 
 const Orders = () => {
